@@ -188,6 +188,7 @@
 
 .kaufman .table__cell {
   margin-top: 80px;
+  width: 200px;
 }
 
 .table__heading {
@@ -229,7 +230,7 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 0;
+  margin-bottom: 70px;
   width: 648px;
 }
 
@@ -241,7 +242,6 @@
   font-size: 36px;
   font-weight: normal;
   text-align: center;
-  margin-top: 70px;
 }
 
 .feynman__link {
@@ -266,9 +266,6 @@
   z-index: 1;
 }
 
-.kaufman .table__cell {
-  width: 200px;
-}
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);

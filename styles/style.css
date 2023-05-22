@@ -144,6 +144,10 @@
   z-index: 2;
 }
 
+.kaufman .section-title {
+  margin-top: 90px;
+}
+
 .section-subtitle {
   line-height: 34px;
   font-size: 24px;
@@ -172,10 +176,18 @@
   padding: 0;
 }
 
+.kaufman .table {
+  margin-bottom: 90px;
+}
+
 .table__cell {
   width: 250px;
   box-sizing: border-box;
   margin-top: 60px;
+}
+
+.kaufman .table__cell {
+  margin-top: 80px;
 }
 
 .table__heading {
@@ -297,6 +309,7 @@
   font-size: 18px;
   font-weight: normal;
 }
+
 .footer__column {
   display: flex;
   flex-direction: column;

@@ -1,0 +1,11 @@
+.footer__colmuns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+    width: 90%;
+}

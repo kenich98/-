@@ -63,3 +63,5 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
